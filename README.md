@@ -4,4 +4,8 @@
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?&style=popout&logo=powershell&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-FFFFFF.svg?logo=python&style=popout">
 
-I'm @MichelGP (Michel van der Zijden), in my content will delve into three main topics: Monitoring, Observability, Infrastructure as Code (Ansible, Terraform, ...).
+I'm @MichelGP (Michel van der Zijden), in my content I will delve into three main topics:
+
+- Monitoring
+- Observability
+- Infrastructure as Code (Ansible, Terraform, ...).
