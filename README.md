@@ -9,3 +9,5 @@ I'm @MichelGP (Michel van der Zijden), in my content I will delve into three mai
 - Monitoring
 - Observability
 - Infrastructure as Code (Ansible, Terraform, ...).
+
+Most of my repositories are private because of their nature, contain customer specifics, et cetera.
